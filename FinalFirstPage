@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type= "text/css" href="design.css">
+    <title>Cedric Shell</title>
+	
+</head>
+<body>
+<h1> My Favorite Anime</h1>
+		<nav id="nav">
+			
+				<a class = "nav" href="#/interests.html">Interests</a>
+				<a class = "nav" href="#/finalhomepage.html">Home</a>
+				<a class = "nav" href="#/track.html">Track</a>
+				<a class = "nav" href="#/future.html">Future</a>
+			
+		</nav>
+		<br/>
+			<h2>Home</h2>
+			<p>
+				 am a senior at Graceland University. I am also a track athlete. Throughout this web page, I will demonstrate how my skills as a programmer continue to grow and develop over the course of the semester. I look forward to increasing my overall skill with the basic computer language of HTML. 
+Right now, I would say my skills are pretty basic. I have been using various different tools to help me achieve my goals of becoming better at programing. I will also be documenting my updates on my blog over at Wordpress. My link will be below. 
+Wave Central 
+			</p>
+			<p> 
+				The content of this website is to spotlight myself in order to gain a deeper understanding of me. 
+			</p>
+			<footer>
+			<div id="footer">
+		<a href="https://www.instagram.com/cedric.jumps/"><img id="instagram"	src= "instagram.png"> </img> </a>
+		<a href="https://twitter.com/CedricJumps"><img id="twitter"	src= "twitter.png"> </img> </a>
+		
+			</div>
+			</footer>
+</body>
+</html>
